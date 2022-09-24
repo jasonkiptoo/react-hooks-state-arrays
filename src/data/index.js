@@ -20,4 +20,4 @@ function getNewRandomSpicyFood() {
   return newSpicyFood;
 }
 
-export { spicyFoods, getNewRandomSpicyFood };
+export { spicyFoods, getNewRandomSpicyFood, newSpicyFoods };
